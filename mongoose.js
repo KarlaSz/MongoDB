@@ -113,3 +113,4 @@ async function main() {
 }
 
 main();
+//okresla wymagania schemat, typy i ograniczenia i automatycznie tworzy model za pomoca ktorego mozemy odwolowyac sie do bazy. mozemy kasowac lub aktualizowac rekordy
